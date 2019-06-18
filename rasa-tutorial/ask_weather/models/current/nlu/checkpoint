@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/code_test/ChatBot-Zero/rasa-tutorial/ask_weather/models/current/nlu/component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/root/code_test/ChatBot-Zero/rasa-tutorial/ask_weather/models/current/nlu/component_5_EmbeddingIntentClassifier.ckpt"
