@@ -1,1 +1,3 @@
-## Start
+文件夹ChatBotDIY是一个“动手做机器人” 的博客 
+文件夹Rasa-study是按照rasa官方文档进行操作的一些记录
+文件夹rasa-tutorial是一个博主的rasa教程
